@@ -6,8 +6,4 @@
 ![image](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
 
 
-![Raphael's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphaeroo&show_icons=true&theme=tokyonight)
-<br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaeroo&hide=php&layout=compact&theme=tokyonight)
-
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=raphaeroo.visitor-badge)
